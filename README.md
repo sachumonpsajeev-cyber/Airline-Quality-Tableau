@@ -64,8 +64,10 @@ Interactive filters: **Customer Type · Gender · Type of Travel**
 | `Airline_Quality_Dashboard.twbx` | Tableau packaged workbook (includes data) |
 | `airline_quality_ratings.xlsx` | Cleaned source dataset |
 | `dashboard_screenshot.png` | Final dashboard screenshot |
-
 ---
+
+🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/sachu.mon.puthenpuraickkal.sajeev/viz/AirlineQualityRatingDashboard/AirlineQualityDashboard)
+
 
 ## 📚 Dataset
 
